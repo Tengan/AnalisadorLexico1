@@ -1,0 +1,7 @@
+C:\Users\tenga\source\repos\AnalisadorLexico\AnalisadorLexico\bin\Debug\AnalisadorLexico.exe.config
+C:\Users\tenga\source\repos\AnalisadorLexico\AnalisadorLexico\bin\Debug\AnalisadorLexico.exe
+C:\Users\tenga\source\repos\AnalisadorLexico\AnalisadorLexico\bin\Debug\AnalisadorLexico.pdb
+C:\Users\tenga\source\repos\AnalisadorLexico\AnalisadorLexico\obj\Debug\AnalisadorLexico.csprojResolveAssemblyReference.cache
+C:\Users\tenga\source\repos\AnalisadorLexico\AnalisadorLexico\obj\Debug\AnalisadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\tenga\source\repos\AnalisadorLexico\AnalisadorLexico\obj\Debug\AnalisadorLexico.exe
+C:\Users\tenga\source\repos\AnalisadorLexico\AnalisadorLexico\obj\Debug\AnalisadorLexico.pdb
